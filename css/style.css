@@ -1,0 +1,129 @@
+nav {
+	font-size: 1.25em;
+	margin: 5px 0;
+	padding: 20px 50px
+}
+body {
+	background-color:#e5f9ff;
+}
+
+h1 {
+	 background-color:#ffccff;
+}
+
+#info {
+	font-size: 12px;
+}
+
+#blackWidow {
+	width: 100%;
+	max-width: 280px;
+}
+
+#overviewimg {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	text-align: center;
+	max-height: 225px;
+}
+
+#allpubs {
+	font-size: 12px;
+}
+
+#pub {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#pubpanel {
+	background: linear-gradient(to right, #ffffff , #f2f9ec);
+}
+
+#picCarousel {
+	height: 400px;
+}
+
+#titletext {
+	background: #193366;
+	color: #ffffff;
+	text-align: center;
+}
+
+#pgimg1 {
+	width:75%;
+}
+
+#pgimg2 {
+	width:85%;
+}
+
+#pgimg3 {
+	width:74%;
+}
+
+#pgimgheading {
+	text-align: center;
+}
+
+#pginfo {
+	font-size: 12px;
+}
+
+#DEimage {
+	width: 80%;
+	padding-bottom: 5px;
+}
+
+#ICKimage {
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+#venomimage {
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+#venomcaption, #transcriptomecaption {
+	text-align: center;
+	border: 4px solid #808080;
+	border-style: double;
+}
+
+#transcriptomic-example1, #transcriptomic-example2 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#imglistelem {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#img1text {
+	padding-top: 20px;
+	color: #264c73;
+}
+
+#img2text {
+	padding-top: 20px;
+	color: #4d194d;
+}
+
+#venomevo-intro {
+	padding-bottom: 10px;
+}
+
+#venomevotext {
+	padding-top: 20px;
+	color: #264c73;
+}
+
+#venomevointrotext {
+	padding-top: 20px;
+}
+
+#venomevo-example1 {
+	padding-top: 10px;
+}
