@@ -1,7 +1,8 @@
 //arrays with text for pages
 var overviewText = [
-"<p>My research is at its core evolutionary biology, but explores it from a molecular genetic perspective, in different organisms, with a variety of tools. From crustaceans, to mollusks, to fish and flies, and on to spiders.....</p>",
-"<p id='info'><em>Click tabs for research examples or see below for publications.</em></p>",
+"<p>My research explores the panoply of products of biological evolution, typically from a molecular genetic perspective, in a range of disparate, but in their own ways fascinating, organisms.</p>", 
+"<p>I employ a range of molecular biological and computational tools and techniques to obtain and analyze data that ranges from the level of the gene, to that of the genome.</p>",
+"<p>I strive to use molecular genetic data in an integrative manner with phenotypic data to obtain a clearer picture of how organisms function and evolve.</p>"
 ];
 
 var popgenText= [

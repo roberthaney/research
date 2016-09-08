@@ -4,12 +4,17 @@ nav {
 	padding: 20px 50px
 }
 body {
-	background-color:#e5f9ff;
+	
+	background-color:rgba(229, 249, 255,.5);
 }
 
 h1 {
 	 background-color:#ffccff;
 	 box-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+}
+
+.panel-title {
+	text-align: center;
 }
 
 #info {
