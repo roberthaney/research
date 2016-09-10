@@ -8,9 +8,27 @@ body {
 	background-color:rgba(229, 249, 255,.5);
 }
 
-h1 {
-	 background-color:#ffccff;
+header {
+	 background-color:#ffb3ff;
 	 box-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+	 transform: skew(20deg);
+	 border: 1px solid white;
+}
+
+header #leftspan {
+	float:left;
+	font-size: 32px;
+	transform: skew(-20deg);
+	margin: 20px 0 20px 20px;
+}
+
+header #rightspan {
+	float:right;
+	font-size: 32px;
+	transform: skew(-20deg);
+	margin: 20px 20px 20px 0;
+	color: #595959;
+	text-shadow: 1px 1px 0 white;
 }
 
 .panel-title {
@@ -24,6 +42,26 @@ h1 {
 #blackWidow {
 	width: 100%;
 	max-width: 280px;
+}
+
+#overview-text p {
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+#overview-text :nth-child(even) {
+	background-color: #193366;
+	color: #ffffff;
+	margin-left: 20px;
+	border: 1px solid white;
+}
+
+#overview-text :nth-child(odd) {
+	background-color: #ffffff;
+	border: 1px solid black;
+	margin-right: 10px;
 }
 
 #overviewimg {
@@ -51,8 +89,6 @@ h1 {
 }
 
 #titletext {
-	background: #193366;
-	color: #ffffff;
 	text-align: center;
 }
 
@@ -132,4 +168,16 @@ h1 {
 
 #venomevo-example1 {
 	padding-top: 10px;
+}
+
+footer {
+	 background-color:#ffb3ff;
+	 box-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+	 transform: skew(-20deg);
+	 border: 1px solid white;
+}
+
+footer a {
+	font-size: 16px;
+	margin-left: 20px;
 }
