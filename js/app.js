@@ -12,9 +12,9 @@ var popgenText= [
 ];
 
 var transcriptomicText = [
- "<li>My work in transcriptomics focuses on spiders, using next-generation sequencing technologies to categorize gene expression at the whole transcriptome level.</li>",
- "<li>The identification of genes with tissue specific expression has expanded our understanding of venom and silk gland function, and discovered novel toxins in the black widow and relatives.</li>",
- "<li>Categorizing regulatory motifs and investigating their occurrence in promoters of tissue-specifically expressed genes can further our understanding of gene regulation and regulatory evolution.</li>"
+ "<p>My work in transcriptomics focuses on spiders, using next-generation sequencing technologies to categorize gene expression at the whole transcriptome level.</p>",
+ "<p>The identification of genes with tissue specific expression has expanded our understanding of venom and silk gland function, and discovered novel toxins in the black widow and relatives.</p>",
+ "<p>Categorizing regulatory motifs and investigating their occurrence in promoters of tissue-specifically expressed genes can further our understanding of gene regulation and regulatory evolution.</p>"
 ];
 
 var transcriptomicsimg1text = [
@@ -74,9 +74,9 @@ for (i = 0; i < transcriptomicsimg1text.length; i++) {
 	$("#img1text").append(transcriptomicsimg1text[i]);
 };
 
-for (i = 0; i < transcriptomicsimg2text.length; i++) {
-	$("#img2text").append(transcriptomicsimg2text[i]);
-};
+//for (i = 0; i < transcriptomicsimg2text.length; i++) {
+//	$("#img2text").append(transcriptomicsimg2text[i]);
+//};
 
 for (i = 0; i < venomevoex1Text.length; i++) {
 	$("#venomevotext").append(venomevoex1Text[i]);
@@ -91,7 +91,7 @@ $("#pgarea1").append(pgarea1img);
 $("#pgarea2").append(pgarea2img);
 $("#pgarea3").append(pgarea3img);
 $("#img1").append(transcriptomicsimg1);
-$("#img2").append(transcriptomicsimg2);
+//$("#img2").append(transcriptomicsimg2);
 $("#venomevointroimg").append(venomevointroimg1);
 $("#venomevoimg1").append(venomevoimg1);
 

@@ -44,21 +44,21 @@ header #rightspan {
 	max-width: 280px;
 }
 
-#overview-text p, #popgen-intro-text p {
+#overview-text p, #popgen-intro-text p, #transcriptomic-intro p {
 	padding: 5px 10px 5px 10px;
 	border-radius: 10px;
 	font-size: 16px;
 	margin-bottom: 20px;
 }
 
-#overview-text :nth-child(even), #popgen-intro-text :nth-child(even) {
+#overview-text :nth-child(even), #popgen-intro-text :nth-child(even), #transcriptomic-intro :nth-child(even)  {
 	background-color: #193366;
 	color: #ffffff;
 	margin-left: 20px;
 	border: 1px solid white;
 }
 
-#overview-text :nth-child(odd), #popgen-intro-text :nth-child(odd) {
+#overview-text :nth-child(odd), #popgen-intro-text :nth-child(odd), #transcriptomic-intro :nth-child(odd) {
 	background-color: #ffffff;
 	border: 1px solid black;
 	margin-right: 10px;
