@@ -6,9 +6,9 @@ var overviewText = [
 ];
 
 var popgenText= [
-"<li id='imglistelem'>Geographical variation in individual traits within species had long been noted by naturalists.</li>",
-"<li id='imglistelem'>The distribution of genetic variation also varies across geography, and through time, and can be explored through the use of molecular markers.</li>",
-"<li id='imglistelem'>I have investigated the genetic structure of populations within species, and explored the role of genetic drift, historical demography and selection on genetic variation.</li>",
+"<p id='imglistelem'>Geographical variation in individual traits within species had long been noted by naturalists.</p>",
+"<p id='imglistelem'>The distribution of genetic variation also varies across geography, and through time, and can be explored through the use of molecular markers.</p>",
+"<p id='imglistelem'>I have investigated the genetic structure of populations within species, and explored the role of genetic drift, historical demography and selection on genetic variation.</p>",
 ];
 
 var transcriptomicText = [
