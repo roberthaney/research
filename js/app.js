@@ -6,22 +6,22 @@ var overviewText = [
 ];
 
 var popgenText= [
-"<p id='imglistelem'>Geographical variation in individual traits within species had long been noted by naturalists.</p>",
-"<p id='imglistelem'>The distribution of genetic variation also varies across geography, and through time, and can be explored through the use of molecular markers.</p>",
-"<p id='imglistelem'>I have investigated the genetic structure of populations within species, and explored the role of genetic drift, historical demography and selection on genetic variation.</p>",
+"<p>Geographical variation in individual traits within species had long been noted by naturalists.</p>",
+"<p>The distribution of genetic variation also varies across geography, and through time, and can be explored through the use of molecular markers.</p>",
+"<p>I have investigated the genetic structure of populations within species, and explored the role of genetic drift, historical demography and selection on genetic variation.</p>",
 ];
 
 var transcriptomicText = [
- "<p>My work in transcriptomics focuses on spiders, using next-generation sequencing technologies to categorize gene expression at the whole transcriptome level.</p>",
- "<p>The identification of genes with tissue specific expression has expanded our understanding of venom and silk gland function, and discovered novel toxins in the black widow and relatives.</p>",
- "<p>Categorizing regulatory motifs and investigating their occurrence in promoters of tissue-specifically expressed genes can further our understanding of gene regulation and regulatory evolution.</p>"
+ "<p>Next-generation sequencing technologies can categorize gene expression at the whole transcriptome level.</p>",
+ "<p>The identification of genes with tissue specific expression can expand our understanding of how discrete tissues function.</p>",
+ "<p>Identifying regulatory motifs and investigating their occurrence in promoters of tissue-specifically expressed genes can further our understanding of gene regulation and regulatory evolution.</p>"
 ];
 
 var transcriptomicsimg1text = [
-  "<li id='imglistelem'><em>We employed RNA-Seq across multiple tissues to characterize transcriptomes in several species of the spider Family Theridiidae</em></li>",
-  "<li id='imglistelem'><em>By comparing these tissue transcriptomes, we were able to identify transcripts with strongly tissue-biased expression.</em></li>",
-  "<li id='imglistelem'><em>Hundreds of transcripts have expression strongly biased towards the venom gland in widow and house spiders.</em></li>",
-  "<li id='imglistelem'><em>These include many potential novel toxins derived from multiple types of proteins.</em></li>"
+  "<p id='imglistelem'><em>We employed RNA-Seq across multiple tissues to characterize transcriptomes in several species of the spider Family Theridiidae</em></p>",
+  "<p id='imglistelem'><em>By comparing these tissue transcriptomes, we were able to identify transcripts with strongly tissue-biased expression.</em></p>",
+  "<p id='imglistelem'><em>Hundreds of transcripts have strongly tissue-biased expression in widow and house spiders.</em></p>",
+  "<p id='imglistelem'><em>This functional genomics approach aids our understanding of the molecular underpinnings of tissue performance.</em></p>"
 ];
 
 var transcriptomicsimg2text = [
@@ -30,15 +30,15 @@ var transcriptomicsimg2text = [
 ];
 
 var venomevointroText = [
-  "<li id='imglistelem'>Venom is a key feature of spider ecology, used in defense and prey acquisition, and is a complex mixture of molecules including proteins and peptides.</li>",
-  "<li id='imglistelem'>In theridiid spiders, like the Western black widow (left), it is used in conjunction with silk to immobilize prey.</li>",
-  "<li id='imglistelem'>Black widow venom contains atypically large presynaptic neurotoxins, called latrotoxins.</li>"
+  "<p id=''>Venom is a key feature of spider ecology, used in defense and prey acquisition, and is a complex mixture of molecules including proteins and peptides.</p>",
+  "<p id=''>In theridiid spiders, like the Western black widow (left), it is used in conjunction with silk to immobilize prey.</p>",
+  "<p id=''>Black widow venom contains atypically large presynaptic neurotoxins, called latrotoxins.</p>"
 ];
 
 var venomevoex1Text = [
-  "<li id='imglistelem'><em>RNA-Seq analysis of the venom gland found numerous new latrotoxins, greatly expanding the diversity of this toxin family.</em></li>",
-  "<li id='imglistelem'><em>Extensive protein sequence divergence suggests the possibility of functional diversification in newly discovered latrotoxins.</em></li>",
-  "<li id='imglistelem'><em>Different latrotoxins target different organisms, and the expanded diversity of latrotoxins could exhibit specificity for other species.</em></li>"
+  "<p id='imglistelem'><em>RNA-Seq analysis of the venom gland found numerous new latrotoxins, greatly expanding the diversity of this toxin family.</em></p>",
+  "<p id='imglistelem'><em>Extensive protein sequence divergence suggests the possibility of functional diversification in newly discovered latrotoxins.</em></p>",
+  "<p id='imglistelem'><em>Different latrotoxins target different organisms, and the expanded diversity of latrotoxins could exhibit specificity for other species.</em></p>"
 ];
 
 //data for images and modal text
