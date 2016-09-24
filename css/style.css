@@ -181,3 +181,10 @@ footer a {
 	font-size: 16px;
 	margin-left: 20px;
 }
+
+@media (max-width: 768px) {
+	#pgarea2, #pgarea3 {
+		margin-top: 25px;
+		border-top: 1px solid #e6e6e6;
+	}
+}
