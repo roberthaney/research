@@ -32,11 +32,12 @@ var transcriptomicsimg2text = [
 var venomevointroText = [
   "<p id=''>Venom is a key feature of spider ecology, used in defense and prey acquisition, and is a complex mixture of molecules including proteins and peptides.</p>",
   "<p id=''>In theridiid spiders, like the Western black widow (left), it is used in conjunction with silk to immobilize prey.</p>",
-  "<p id=''>Black widow venom contains atypically large presynaptic neurotoxins, called latrotoxins.</p>"
+  "<p id=''>High-throughput 'omics' approaches can unravel venom complexity.</p>"
 ];
 
 var venomevoex1Text = [
-  "<p id='imglistelem'><em>RNA-Seq analysis of the venom gland found numerous new latrotoxins, greatly expanding the diversity of this toxin family.</em></p>",
+  "<p id=''><em>Black widow venom contains atypically large presynaptic neurotoxins, called latrotoxins.</em></p>",
+  "<p id='imglistelem'><em>RNA-Seq and proteomic analysis identified numerous new latrotoxins, greatly expanding the diversity of this toxin family.</em></p>",
   "<p id='imglistelem'><em>Extensive protein sequence divergence suggests the possibility of functional diversification in newly discovered latrotoxins.</em></p>",
   "<p id='imglistelem'><em>Different latrotoxins target different organisms, and the expanded diversity of latrotoxins could exhibit specificity for other species.</em></p>"
 ];
